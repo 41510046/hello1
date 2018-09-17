@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hello</string>
+    <string name="r_str">你好摩托</string>
+    <string name="s_str">汤姆</string>
+</resources>
